@@ -1,5 +1,12 @@
 def weather():
-    """This module helps in geting current weather forcast from the USA: https://weather.gov
+    """
+    Author: Stephen Tete
+    linkedin: https://www.linkedin.com/in/tete-stephen/
+    """
+    
+    
+    """
+    This module helps in geting current weather forcast from the USA: https://weather.gov
     You can search for the weather forcast of any particular State by providing the url for that state, after you search for it on the website
 
     For example, type: Texas into the search box on https://weather.gov and enter
